@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Soumya Chatterjee, a Pre-Doctoral Reasercher at Google Research India. Previously, I graduated with a Bachelors in Computer Science and Engineering from IIT Bombay. My research interests broadly lie in Natural Language Processing and Machine Learning.
+
+Visit my [website](https://soumyac1999.github.io/) to know more.
+
 <!--
 **soumyac1999/soumyac1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
