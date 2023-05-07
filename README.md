@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Soumya Chatterjee, masters student at Stanford University studying Computer Science. Previously, I was a Pre-Doctoral Reasercher at Google Research India. I graduated with a Bachelors in Computer Science and Engineering from IIT Bombay.
+I am Soumya, a Masters student at Stanford studying Computer Science. Previously, I was at Google Research and had received my Bachelors in Computer Science and Engineering from IIT Bombay.
 
-My research interests broadly lie in Natural Language Processing and Machine Learning. I am currently excited about knowledge augmented methods, question answering and symbolic reasoning.
+My research interests broadly lie in Natural Language Processing and Machine Learning. I am currently excited about knowledge augmented methods and question answering. I am also interested in ML systems.
 
 Visit my [website](https://soumyac1999.github.io/) to know more.
 
