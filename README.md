@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Soumya, a Masters student at Stanford studying Computer Science. Previously, I was at Google Research and had received my Bachelors in Computer Science and Engineering from IIT Bombay.
-
-My research interests broadly lie in Natural Language Processing and Machine Learning. I am currently excited about knowledge augmented methods and question answering. I am also interested in ML systems.
+I am Soumya, a Masters student at Stanford studying Computer Science. Previously, I completed my Bachelors in Computer Science and Engineering from IIT Bombay. I have spent time at Apple and Google Research working on problems in Natural Language Processing. I am also interested in Machine Learning Systems.
 
 Visit my [website](https://soumyac1999.github.io/) to know more.
 
